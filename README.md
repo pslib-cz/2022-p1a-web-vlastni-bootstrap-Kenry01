@@ -16,6 +16,17 @@ https://github.com/Kenry01/Project-ZAL-
 https://github.com/Kenry01/Project-ZAL-
 https://github.com/Kenry01/Project-ZAL-
 
+
+https://kenry01.github.io/Project-ZAL-/index.html
+https://kenry01.github.io/Project-ZAL-/index.html
+https://kenry01.github.io/Project-ZAL-/index.html
+https://kenry01.github.io/Project-ZAL-/index.html
+https://kenry01.github.io/Project-ZAL-/index.html
+https://kenry01.github.io/Project-ZAL-/index.html
+https://kenry01.github.io/Project-ZAL-/index.html
+
+
+
 Vytvořte vlastní malý tématický web pomocí HTML a CSS. Promyslete si téma, vytvořte nebo najděte grafiku, vymyslete nebo vygenerujte vlastní texty. Web může a musí být na libovolné (společensky) přijatelné téma. Pokud Vás žádné téma nenapadá, použijte téma referátu na IKT.
 
 Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které body zadání už máte splněné.
